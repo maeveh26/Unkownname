@@ -1,0 +1,48 @@
+#BestShows{
+	background-color:#EEBEC1;
+}
+
+h1 {
+	font-size: 83px;
+	color:#561521;
+	font-family: Ed Garamond;
+}
+
+.about {
+	font-size: 30px;
+}
+#BestShows{
+	color:#A63446;
+	font-size: 25px;
+	font-family: Ed Garamond;
+}
+li{
+	color:#7E1946;
+}
+
+#About{
+	background-color:#324A5F;
+color:#561521;
+}
+table {
+	color:#43719D;
+}
+#AB {
+	color:#1B2A41;
+	font-size:40px;
+}
+p1 {
+	color: #1B2A41;
+	font-size: 20px;
+}
+p2 {
+	font-size: 15px;
+}
+
+th{
+	color:#073047 ;
+}
+a{
+	font-size: 15px;
+	color: #A63446;
+}
