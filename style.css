@@ -35,8 +35,9 @@ p1 {
 	color: #1B2A41;
 	font-size: 20px;
 }
-p2 {
+#Link {
 	font-size: 15px;
+	color:#284B63;
 }
 
 th{
@@ -44,5 +45,48 @@ th{
 }
 a{
 	font-size: 15px;
-	color: #A63446;
+	color: #EAECE7;
+}
+
+#WTW {
+	background-color:#74526C;
+}
+
+#head {
+	color: #A97E9F;
+	font-size: 90px;
+	font-family: impact;
+}
+
+#help {
+	color: #A97E9F;
+	font-size: 35px;
+	font-family: impact ;
+}
+#link{
+	font-size: 25px;
+}
+
+#yy {
+	color: #A97E9F;
+	font-family: impact;
+}
+
+#AR {
+	Color:#9D79BC ;
+}
+#A {
+	background-color: #8CA0D7;
+}
+#list {
+	color: #9D79BC;
+	font-size: 35px;
+}
+
+#lit {
+	font-size: 35px;
+	color: #9D79BC;
+}
+p{
+	font-size: 35px;
 }
